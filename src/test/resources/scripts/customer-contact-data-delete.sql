@@ -1,0 +1,1 @@
+DELETE FROM customer_contact c WHERE c.last_name = 'Johnson-Test';
